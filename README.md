@@ -31,22 +31,22 @@ Existuje řada zajímavých webu postavených na těchto datech.
 
 ## Soubory s informativními údaji
 Přehled jmen a lokalit (zip, 2,6 MB) 
-cetnost-jmena-obec.zip 
+*cetnost-jmena-obec.zip*
 
 Přehled jmen a roků narození (zip, 1,8 MB)
-cetnost-jmena-dnar.zip
+*cetnost-jmena-dnar.zip*
 
 Přehled příjmení a lokalit (zip, 13,9 MB)
-cetnost-prijmeni-obec.zip
+*cetnost-prijmeni-obec.zip*
 
 Přehled příjmení a roků narození (zip, 10,8 MB)
-cetnost-prijmeni-dnar.zip
+*cetnost-prijmeni-dnar.zip*
 
 Přehled lokalit a roků narození (zip, 55 kB)
-cetnost-obec-dnar.zip
+*cetnost-obec-dnar.zip*
 
-PPřehled četnosti vech příjmení (zip, 2 MB) (aktualizováno k 9/2017) 
-zcpr.zip
+Přehled četnosti všech příjmení (zip, 2 MB) (aktualizováno k 9/2017) 
+*zcpr.zip*
 
 ## Číselníky
 Číselníky (xls, 827 kB, ke dni 1. 1. 2011) - cisloc.xls
